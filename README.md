@@ -1,2 +1,3 @@
 # CSV
 具备任务规划与工具调用能力的智能Agent，根据指令完成信息查询。
+使用是在终端输入streamlit run main.py
